@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "spms-45ac8": {
+      "hosting": {
+        "spms": [
+          "spms-45ac8"
+        ]
+      }
+    }
+  }
+}
